@@ -1,2 +1,7 @@
 # Traffic-Reduction
-Cv for car detection and using algorithms in order to time signals right making it more efficient
+Car/Human Motion Sensor
+Yolov5
+* Fast and very accurate
+* Customizable
+* Simple training pipeline
+* 24 convolutional layers
