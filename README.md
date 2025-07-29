@@ -1,6 +1,5 @@
 # Traffic-Reduction
-Car/Human Motion Sensor
-Yolov5
+Car/Human Motion Sensor with Yolov5
 * Fast and very accurate
 * Customizable
 * Simple training pipeline
